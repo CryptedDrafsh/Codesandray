@@ -1,5 +1,3 @@
-# xray-codesandbox
-vless, vmess, trojan, ... Xray in codesandbox.io 
+# x ray prx for code sand box
+X ray config over code sandbox .io 
 
-tutorial:
-https://telegra.ph/Free-Hetzner-Xray-with-codesandbox-02-18
